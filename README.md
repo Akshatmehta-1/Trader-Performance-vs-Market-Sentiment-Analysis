@@ -114,3 +114,8 @@ jupyter notebook
 ## Conclusion
 
 Market sentiment significantly influences trader behavior and performance. However, disciplined trading (controlled size and frequency) consistently outperforms aggressive behavior.
+
+## Dataset Link
+* 1) https://drive.google.com/file/d/1PgQC0tO8XN-wqkNyghWc_-mnrYv_nhSf/view?usp=sharing (Bitcoin market sentiment (Fear/Greed))
+* 2) https://drive.google.com/file/d/1IAfLZwu6rJzyWKgBToqwSmmVYU6VbjVs/view?usp=sharing (Historical Trader Data (Hyperliquid))
+
